@@ -1823,7 +1823,7 @@ textarea.w-input {
     }
 
     .home-1.tricks {
-        font-size: clamp(48px, 5.1vw, 90px);
+        font-size: clamp(30px, 5.1vw, 90px);
     }
 
     .container.small .row {
