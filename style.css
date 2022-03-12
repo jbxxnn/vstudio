@@ -1702,7 +1702,7 @@ textarea.w-input {
 
 @media screen and (max-width: 767px){
     .section {
-        padding-top: 1em;
+        padding-top: 3em;
         padding-bottom: 1em;
     }
 
@@ -1754,7 +1754,7 @@ textarea.w-input {
 
     .about-jbxxnn-content {
         width: 100%;
-        margin-top: 1em;
+        margin-top: 3em;
         padding-left: 0;
         margin-right: 0;
         align-items: flex-start;
@@ -1770,7 +1770,7 @@ textarea.w-input {
     }
 
     .is-big {
-        font-size: 1em;
+        font-size: 17px;
     }
 
     .about-jbxxnn-img-wrapper {
@@ -1778,8 +1778,33 @@ textarea.w-input {
         width: 100%;
         margin-left: 0;
         margin-right: 0;
-        padding-right: 0;
+        padding-right: 2em;
         flex-direction: column;
         order: -1;
+    }
+
+    .footer-contact-block {
+        display: flex;
+        width: 100%;
+        margin-top: 1.5em;
+        margin-right: 0;
+        flex-direction: column;
+        align-items: center;
+        order: 1;
+    }
+
+    .footer-content-holder {
+        flex-direction: column;
+    }
+
+    .form-block {
+        width: 100%;
+    }
+
+    .socials-content-block {
+        display: flex;
+        margin-top: 1em;
+        flex-direction: column;
+        align-items: center;
     }
 }
