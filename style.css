@@ -1807,4 +1807,54 @@ textarea.w-input {
         flex-direction: column;
         align-items: center;
     }
+
+    .home-circle {
+        width: 80vw;
+        top: 40%;
+    }
+
+    .side-text-wrap {
+        display: none;
+    }
+
+    .container.medium .row {
+        width: 100%;
+        margin: 0;
+    }
+
+    .home-1.tricks {
+        font-size: clamp(48px, 5.1vw, 90px);
+    }
+
+    .container.small .row {
+        width: 100%;
+        margin: 0;
+    }
+
+    .row h2 {
+        font-size: clamp(23px, 2.25vw, 36px);
+    }
+
+    .container.small {
+        max-width: 60%;
+    }
+
+    .home-circle .playbutton {
+        left: 65%;
+        top: 27%;
+    }
+
+    .section-home-intro {
+        margin-top: -3em;
+        text-align: center;
+        padding-bottom: 7em;
+    }
+}
+
+@media screen and (max-height: 840px) {
+
+    .section-home-header .home-video-wrapper {
+        width: 15em;
+    }
+    
 }
