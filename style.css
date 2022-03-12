@@ -1849,6 +1849,10 @@ textarea.w-input {
         text-align: center;
         padding-bottom: 7em;
     }
+	
+	.section-home-header .home-video-wrapper {
+        width: 15em;
+    }
 }
 
 @media screen and (max-height: 840px) {
