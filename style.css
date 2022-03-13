@@ -1852,7 +1852,7 @@ textarea.w-input {
     }
 	
 	.section-home-header .home-video-wrapper {
-        width: 12em;
+        width: 11em;
     }
 	
 	.work-h1-style {
@@ -1872,10 +1872,4 @@ textarea.w-input {
 	}
 }
 
-@media screen and (max-height: 840px) {
 
-    .section-home-header .home-video-wrapper {
-        width: 15em;
-    }
-    
-}
