@@ -1719,7 +1719,7 @@ textarea.w-input {
     }
 
     .service-wrapper-1 {
-        width: 100%;
+        width: 94%;
         min-height: 70vh;
         padding-left: 1em;
         padding-right: 1em;
@@ -1854,6 +1854,17 @@ textarea.w-input {
 	.section-home-header .home-video-wrapper {
         width: 12em;
     }
+	
+	.work-h1-style {
+		font-size: 2.5em !important;
+	}
+	
+	.about-jbxxnn-text-content {
+		width: 60ch;
+	}
+	
+	.about-jbxxnn-btn {
+		width: 40ch;
 }
 
 @media screen and (max-height: 840px) {
