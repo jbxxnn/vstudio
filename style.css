@@ -1798,7 +1798,7 @@ textarea.w-input {
     }
 
     .form-block {
-        width: 100%;
+        width: 90%;
     }
 
     .socials-content-block {
@@ -1865,6 +1865,11 @@ textarea.w-input {
 	
 	.about-jbxxnn-btn {
 		width: 40ch;
+	}
+	
+	.footer-link-blocks.margin {
+		display: none;
+	}
 }
 
 @media screen and (max-height: 840px) {
