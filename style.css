@@ -1810,7 +1810,7 @@ textarea.w-input {
 
     .home-circle {
         width: 80vw;
-        top: 40%;
+        top: 15%;
     }
 
     .side-text-wrap {
@@ -1842,6 +1842,7 @@ textarea.w-input {
     .home-circle .playbutton {
         left: 65%;
         top: 27%;
+	    display: none
     }
 
     .section-home-intro {
