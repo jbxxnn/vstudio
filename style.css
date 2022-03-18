@@ -1895,6 +1895,48 @@ textarea.w-input {
 		    width: 60%;
     		height: 10em;
 	}
+	
+	.about-us-intro-content {
+		display: block;
+	}
+	
+	.about-us-header-img {
+		width: 95%;
+	}
+	
+	 .intro-text-holder, .more-info-about-text-wrapper, .company-seal-desc-holder {
+		 width: 100%;
+	}
+	
+	.about-paragraph, .blue {
+		font-size: 17px;
+	}
+	
+	.persona-text {
+		margin-left: 0em;
+	}
+	
+	.blue.lower2 {
+		font-size: 1.2em;
+	}
+	
+	.owner-exp-text {
+		width: 90%;
+	}
+	
+	.sticky-container {
+		height: 50vh;
+	}
+	
+	.company-seal-header-text {
+		width: 90%;
+		font-size: 2em;
+	}
+	
+	.seal-script-text {
+		font-size: 2em;
+	}
+	
 }
 
 
