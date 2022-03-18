@@ -1882,6 +1882,10 @@ textarea.w-input {
 	.container {
 		width: 85%;
 	}
+	
+	.form-email-wrapper {
+		width: 40%;
+	}
 }
 
 
