@@ -1878,6 +1878,10 @@ textarea.w-input {
 	.contact-content-wrapper {
 		display: block;
 	}
+	
+	.container {
+		width: 85%;
+	}
 }
 
 
