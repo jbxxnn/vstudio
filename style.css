@@ -1886,6 +1886,15 @@ textarea.w-input {
 	.form-email-wrapper {
 		width: 40%;
 	}
+	
+	.welcome-text {
+		transform: rotate(0deg);
+	}
+	
+	.welcome-wrapper {
+		    width: 60%;
+    		height: 10em;
+	}
 }
 
 
