@@ -1867,8 +1867,12 @@ textarea.w-input {
 		width: 30ch;
 	}
 	
-	.footer-link-blocks.margin, .damsel-in-dior, .sos-food, .case-furniture, .dry-farm-wines, .reserve-bar {
+	.footer-link-blocks.margin, .damsel-in-dior, .sos-food, .case-furniture, .dry-farm-wines, .reserve-bar, .work-title-gradient {
 		display: none;
+	}
+	
+	.featured-work-text-wrapper p, .caption-text p {
+		font-size: 2em;
 	}
 }
 
