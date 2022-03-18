@@ -1741,6 +1741,7 @@ textarea.w-input {
 
     .is-centerd-text {
         font-size: 3.5em;
+	    margin-bottom: 1em;
     }
 
     .title-wrapper h2 {
