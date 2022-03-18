@@ -1874,6 +1874,10 @@ textarea.w-input {
 	.featured-work-text-wrapper p, .caption-text p {
 		font-size: 2em;
 	}
+	
+	.contact-content-wrapper {
+		display: block;
+	}
 }
 
 
