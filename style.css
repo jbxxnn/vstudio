@@ -1938,6 +1938,10 @@ textarea.w-input {
 		font-size: 2em;
 	}
 	
+	.contact-form-wrapper {
+		width: 100%;
+	}
+	
 }
 
 
